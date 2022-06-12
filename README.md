@@ -14,7 +14,7 @@
 
 ### Introduction
 
-   this rotating navigation menu bar can be used for single or multi-sectional pages web applications. the menu have two buttons. one is the hamburger icon button and the other is the close menu button and both are clickable.
+   This rotating navigation menu bar can be used for single or multi-sectional pages web applications. the menu have two buttons. one is the hamburger icon button and the other is the close menu button and both are clickable.
 
 ## Project Structure
 
